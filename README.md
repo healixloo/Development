@@ -7,7 +7,7 @@ devtools::install_github("healixloo/Development")
 
 ## Description
 
-This function loads a correlation object and a formed database file as input, return a list of calculated roc.
+This function loads a correlation object and a formed database file as input, return a list of calculated roc
 
 
 ## Usage
@@ -36,7 +36,7 @@ boolean value representing database file of one category or multiple categories
 
 ## Value
 
-A list of the calculated roc in indicated database file (roc_qda,plotx,roc.info).
+A list of the calculated roc in indicated database file (roc_qda,plotx,roc.info)
 
 
 ## Vignettes
