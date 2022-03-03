@@ -29,3 +29,6 @@ library(pROC)
 pdf("test.pdf")
 p9<-roc_calculate(res2,mm9Chromosome,J_name="mm9Chromosome")
 dev.off()
+p9[1]
+p9[2]
+p9[3]
